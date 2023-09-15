@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "teste-video-expo",
-    "slug": "teste-video-expo",
+    "name": "expo-video-fullscreen-demo",
+    "slug": "expo-video-fullscreen-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
